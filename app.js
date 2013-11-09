@@ -1,0 +1,1 @@
+window.Stax = Ember.Application.create();
